@@ -1,0 +1,6 @@
+build/
+buildPlugins/
+.gradle
+.classpath
+.project
+*.log
